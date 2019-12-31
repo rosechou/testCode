@@ -6,7 +6,6 @@ int MAIN()
  b = read();
  c = a + 2; 
  d = b + 4;
- e = a + 1;
 
  
  if (a || b || c && d && (e>1) )
